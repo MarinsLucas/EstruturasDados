@@ -1,2 +1,2 @@
-add_executable(splay splay.cpp)
+add_executable(splay splayTree.cpp)
 target_link_libraries(splay PUBLIC estruturas)
