@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "TestCompile",
+      "setup": "rm -rf build",
+      "run": "cmake -B build && cmake --build build ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
