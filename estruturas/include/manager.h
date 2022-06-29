@@ -1,4 +1,4 @@
-#ifndef MANAGER
+/* #ifndef MANAGER
 #define MANAGER
 
 #include "config.h"
@@ -51,4 +51,4 @@ private:
     void sort_words_by_repeat(vector<T> &arrayPalavras, sorting_method method);// função que chama a ordenação das palavras que mais repetem
 };
 
-#endif
+#endif */

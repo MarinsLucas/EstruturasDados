@@ -1,4 +1,4 @@
-#include <iostream>
+/* #include <iostream>
 #include <string.h>
 
 #include "list.h"
@@ -69,4 +69,4 @@ void LinkedList::getAllInfo(vector<T>& vet){
         p = p->getProx();
     }
     delete p;
-}
+} */

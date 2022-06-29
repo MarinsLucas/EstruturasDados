@@ -1,4 +1,4 @@
-#ifndef NODE_H_INCLUDED
+/* #ifndef NODE_H_INCLUDED
 #define NODE_H_INCLUDED
 
 #include <iostream>
@@ -25,3 +25,4 @@ class Node<T>
 };
 
 #endif // NODE_H_INCLUDED
+ */

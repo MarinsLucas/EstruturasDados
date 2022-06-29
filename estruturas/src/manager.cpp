@@ -1,4 +1,4 @@
-#include <string.h>
+/* #include <string.h>
 #include <vector>
 #include <dirent.h>
 #include <iostream>
@@ -157,3 +157,4 @@ void manager::mainGutemberg(sorting_method method, vector<string>nomes_arquivos,
     write50(indice);
 };
 
+ */

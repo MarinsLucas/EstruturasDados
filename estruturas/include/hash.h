@@ -1,4 +1,4 @@
-#ifndef HASH_H__
+/* #ifndef HASH_H__
 #define HASH_H__
 
 #include <iostream>
@@ -31,4 +31,4 @@ class Hash{
            
 };
 
-#endif
+#endif */

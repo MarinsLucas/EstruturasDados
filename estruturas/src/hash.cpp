@@ -1,4 +1,4 @@
-#include <iostream>
+/* /* #include <iostream>
 #include <vector>
 #include <string.h>
 #include <math.h>
@@ -18,7 +18,7 @@ Hash::Hash(int tam){
 
 Hash::~Hash(){
     /* for (int i = 0; i < m; i++)
-        hashm[i]->~LinkedList(); */
+        hashm[i]->~LinkedList();
 
     delete [] hashm;
 };
@@ -59,4 +59,4 @@ void Hash::copyToVector(vector<hashVec>& vet) {
     for(int i = 0; i < m; i++) {
         hashm[i]->getAllInfo(vet);
     }
-}
+}  */
